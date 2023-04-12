@@ -1,2 +1,2 @@
 # Epigenomics_task
-This is a git repository to document Epigenomics task (UVic Master)
+This is a Wiki git repository to document Epigenomics task (UVic Master)
